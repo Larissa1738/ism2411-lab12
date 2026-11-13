@@ -1,2 +1,7 @@
-# ism2411-lab12
-ISM2411 Lab 12 - CSV Practice
+# ISM2411 Lab 12 — Read a Sales CSV, Write a Cleaned Report
+
+**Name:** Larissa Paiva
+
+**How to run:**
+
+python3 csv_practice.py
